@@ -1,0 +1,27 @@
+p {
+  color: #0000FF;
+  font-size: : 12px;
+  text-decoration: line-through
+  }
+h1 {
+    color: #008000;
+    text-transform: uppercase
+  }
+h1 {
+  background-color: #888888;
+  margin: 20px;
+  padding: 40px;
+  border-style: dashed;
+  border-width: 3px;
+  border-color: red;
+
+}
+h2 {
+  background-color:#888888;
+}
+h2 {
+  text-decoration: underline;
+}
+body {
+  font-family: helvetica;
+}
